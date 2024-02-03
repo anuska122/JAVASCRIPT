@@ -57,7 +57,7 @@ Properties are the most important part of any JavaScript object. A JavaScript ob
 
 **JavaScript Accessors (Getters and Setters)**
 
-- Getters and setters allow you to define Object Accessors (Computed Properties). We use accessor because it gives simpler syntax, allows equal syntax for properties and methods, it can secure better data quality and it is useful for doing things behind-the-scenes.
+- Getters and setters allow us to define Object Accessors (Computed Properties). We use accessor because it gives simpler syntax, allows equal syntax for properties and methods, it can secure better data quality and it is useful for doing things behind-the-scenes.
 
 **Object prototype**
 
