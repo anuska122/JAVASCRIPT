@@ -4,6 +4,8 @@
 
 ### Here I am going to dive into Web Development in more detailed form than before and will be doing different interesting projects related to the topic I studied.
 
+## Day1
+
 ### JavaScript Object
 - Here I am going to Include JavaScript Object Defination and Properties.
 
@@ -33,6 +35,50 @@ Properties are the most important part of any JavaScript object. A JavaScript ob
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/d343063c-4a52-4201-b8d3-863c144910c9)
 
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/191efecc-fc07-4948-bccf-bb332d947264)
+
+## Day2
+
+###  JavaScript Object
+- Today I have learned about the sub-topics of Js object that is Object method, display, accessors, constructors and prototypes.
+
+**JS Object Method**
+
+- JavaScript methods are actions that can be performed on objects. Methods are functions stored as object properties.
+
+**Object display**
+
+- Some common solutions to display JavaScript objects are:
+
+  - Displaying the Object Properties by name.
+  - Displaying the Object Properties in a Loop.
+  - Displaying the Object using Object.values().
+  - Displaying the Object using JSON.stringify(). Any JavaScript object can be stringified (converted to a string) with the JavaScript 
+    function JSON.stringify().
+
+**JavaScript Accessors (Getters and Setters)**
+
+- Getters and setters allow you to define Object Accessors (Computed Properties). We use accessor because it gives simpler syntax, allows equal syntax for properties and methods, it can secure better data quality and it is useful for doing things behind-the-scenes.
+
+**Object prototype**
+
+- All JavaScript objects inherit properties and methods from a prototype.
+  - Date objects inherit from Date.prototype
+  - Array objects inherit from Array.prototype
+  - Person objects inherit from Person.prototype
+  
+- The Object.prototype is on the top of the prototype inheritance chain:
+
+- Date objects, Array objects, and Person objects inherit from Object.prototype.
+
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/710ef52f-d09c-44d9-85b2-c6dbe9e9983c)
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/e63cce86-1df5-4462-8f13-10d032e43d65)
+
+
+
+
+
 
 
 
