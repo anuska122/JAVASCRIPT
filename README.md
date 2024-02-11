@@ -76,6 +76,33 @@ Properties are the most important part of any JavaScript object. A JavaScript ob
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/e63cce86-1df5-4462-8f13-10d032e43d65)
 
 
+## Day3
+
+**JavaScript Object**
+- Today I have learned about the sub-topics of Js object that is JS OBJ Iterables, sets, and maps.
+
+**JavaScript Object Iterables**
+- Iterable objects are objects that can be iterated over with for..of. Technically, iterables must implement the Symbol.iterator method.
+
+**Objects set**
+- A JavaScript Set is a collection of unique values. Each value can only occur once in a Set and set can hold any value of any data type.
+ 
+- We can create a JavaScript Object Set by:
+  - Passing an Array to new Set().
+  - Create a new Set and use add() to add values.
+  - Create a new Set and use add() to add variables.
+
+**Object maps**
+- A Map holds key-value pairs where the keys can be any datatype. It remembers the original insertion order of the keys and has a property that represents the size of the map.
+
+- We can create a JavaScript Object Map by:
+  - Passing an Array to new Map().
+  - Create a Map and use Map.set().
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/c0d70de9-2654-4047-b958-fbd5205b7d36)
+
+
+ 
 
 
 
