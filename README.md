@@ -101,8 +101,28 @@ Properties are the most important part of any JavaScript object. A JavaScript ob
 
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/c0d70de9-2654-4047-b958-fbd5205b7d36)
 
+## Day4
+**JavaScript Classes**
 
- 
+- In JavaScript, classes are a way to define blueprints for creating objects with similar properties and methods. JavaScript Classes are templates for JavaScript Objects. We use the keyword class to create a class and always we need to add a method named constructor():
+
+ - constructor(): Special method for initializing newly created objects. It's called automatically when a new instance of the class is created.
+
+   The constructor method is a special method:
+     -  It has to have the exact name "constructor".
+     -  It is executed automatically when a new object is created.
+     -  It is used to initialize object properties.
+
+**Class Inheritance**
+- To create a class inheritance, we use the extends keyword. A class created with a class inheritance inherits all the methods from another class. Inheritance is useful for code reusability;reuse properties and methods of an existing class when we create a new class.
+
+_Unlike functions, and other JavaScript declarations, class declarations are not hoisted. That means that we must declare a class before you can use it._
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/a99105dd-09c3-4a66-af80-36c4ca4af3c1)
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/842c147e-27eb-4ffc-a0ad-27023e30dadd)
+
+
 
 
 
