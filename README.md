@@ -122,6 +122,32 @@ _Unlike functions, and other JavaScript declarations, class declarations are not
 
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/842c147e-27eb-4ffc-a0ad-27023e30dadd)
 
+## Day5
+
+**JavaScript Validation**
+- JavaScript provides facility to validate the form on the client-side so data processing will be faster than server-side validation. Most of the web developers prefer JavaScript form validation. Through JavaScript, we can validate name, password, email, date, mobile numbers and more fields.
+
+- checkValidity(): Returns true if an input element contains valid data.
+- setCustomValidity():	Sets the validationMessage property of an input element.
+
+**Constraint Validation DOM Properties**
+
+  - validity:	Contains boolean properties related to the validity of an input element.
+  - validationMessage:	Contains the message a browser will display when the validity is false.
+  -  willValidate:	Indicates if an input element will be validated.
+
+**Validity Properties**
+- The validity property of an input element contains a number of properties related to the validity of data:
+  - customError:	Set to true, if a custom validity message is set.
+  - patternMismatch:	Set to true, if an element's value does not match its pattern attribute.
+  - rangeOverflow:	Set to true, if an element's value is greater than its max attribute.
+  - rangeUnderflow:	Set to true, if an element's value is less than its min attribute.
+
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/6ecee544-2667-4446-8dbb-ca93b020f4ed)
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/04496f4b-f52a-4463-8c38-ed743b647455)
+
 
 
 
