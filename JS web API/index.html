@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="content"></p>
+    <script>
+        // localstorage
+        localStorage.setItem("name", "Anushka");
+        document.getElementById("content").innerHTML = localStorage.getItem("name");
+
+        // sessionStorsge Object
+        sessionStorage.setItem("book", "zero to one");
+        document.getElementById("content").innerHTML = sessionStorage.getItem("book");
+    </script>
+</body>
+
+</html>
