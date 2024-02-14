@@ -149,6 +149,42 @@ _Unlike functions, and other JavaScript declarations, class declarations are not
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/04496f4b-f52a-4463-8c38-ed743b647455)
 
 
+## Day6
+
+Today let's have some sneak peek about the Web Storage API.
+
+**Web Storage API**
+- The Web Storage API is a simple syntax for storing and retrieving data in the browser. They allow web applications to store data locally on the 
+ client-side, such as user preferences, session data, or cached resources.
+
+**The localStorage Object**
+- The localStorage object provides access to a local storage for a particular Web Site. It allows you to store, read, add, modify, and delete data 
+ items for that domain. The data is stored with no expiration date, and will not be deleted when the browser is closed. The data will be available 
+ for days, weeks, and years.
+
+**The setItem() Method**
+- The localStorage.setItem() method stores a data item in a storage. It takes a name and a value as parameters.
+
+**The getItem() Method**
+- The localStorage.getItem() method retrieves a data item from the storage. It takes a name as parameter.
+
+**The sessionStorage Object**
+- The sessionStorage object is identical to the localStorage object. The difference is that the sessionStorage object stores data for one session. 
+ The data is deleted when the browser is closed.
+
+**Storage Object Properties and Methods**
+
+  - key(n):	Returns the name of the nth key in the storage.
+  - length:	Returns the number of data items stored in the Storage object.
+  - getItem(keyname):	Returns the value of the specified key name.
+  - setItem(keyname, value):	Adds a key to the storage, or updates a key value (if it already exists).
+  - removeItem(keyname):	Removes that key from the storage.
+  - clear():	Empty all key out of the storage.
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/3429c1f5-93dd-4adc-a83e-21a3d6d33b11)
+
+
+
 
 
 
