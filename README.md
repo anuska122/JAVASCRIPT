@@ -184,6 +184,17 @@ Today let's have some sneak peek about the Web Storage API.
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/3429c1f5-93dd-4adc-a83e-21a3d6d33b11)
 
 
+## Day7
+
+**Web Geolocation API**
+- It Locates the User's Position. The HTML Geolocation API is used to get the geographical position of a user. Since this can compromise privacy, the position is not available unless the user approves it. Geolocation is most accurate for devices with GPS, like smartphones. The Geolocation API will only work on secure contexts such as HTTPS. If our site is hosted on a non-secure origin (such as HTTP) the requests to get the users location will no longer function.
+
+**Using the Geolocation API**
+- The getCurrentPosition() method is used to return the user's position.
+
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/c973d95e-74b5-4e42-8375-764dab48f8b7)
+
 
 
 
