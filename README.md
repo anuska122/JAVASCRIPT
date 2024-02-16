@@ -196,6 +196,22 @@ Today let's have some sneak peek about the Web Storage API.
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/c973d95e-74b5-4e42-8375-764dab48f8b7)
 
 
+## Day8
+
+**Destructuring Assignment**
+- Destructuring assignment is a feature in JavaScript that allows us to extract data from arrays, objects, or other iterable objects into distinct variables. It provides a concise syntax for breaking down the structure of an array or object and assigning its elements or properties to variables in a single step.
+
+
+**Spread Operator**
+- The spread operator allows an iterable, such as an array or a string, to be expanded or spread into individual elements. It can be used in various contexts, such as array literals, function calls, and object literals, to provide a more concise and flexible way of working with arrays and objects.
+
+- Both features significantly enhance the readability and writability of JavaScript code, particularly when working with complex data structures like arrays and objects. They're widely used in modern JavaScript development.
+
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/de72ff43-494d-4b5a-8037-e012e2546459)
+
+
+
 
 
 
