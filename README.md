@@ -211,6 +211,24 @@ Today let's have some sneak peek about the Web Storage API.
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/de72ff43-494d-4b5a-8037-e012e2546459)
 
 
+## Day9 
+
+**Here is my JS project in which I have created a login page with the validation property.
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/186403f2-6546-46ec-ae7b-b22c9c2811ed)
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/ccb8ef41-cb2a-45df-acb3-e2bcd568d5bc)
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/b70a1872-0723-4b39-b582-b2bdd30b95ee)
+
+![Output](https://github.com/anuska122/JAVASCRIPT/assets/154875734/1ab6c63e-0b2c-4580-9ff3-6331f8d7c883)
+
+
+
+
+
+
+
 
 
 
