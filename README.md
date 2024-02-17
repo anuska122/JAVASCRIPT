@@ -213,7 +213,7 @@ Today let's have some sneak peek about the Web Storage API.
 
 ## Day9 
 
-**Here is my JS project in which I have created a login page with the validation property.
+**Here is my JS project in which I have created a login page with the validation property.**
 
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/186403f2-6546-46ec-ae7b-b22c9c2811ed)
 
