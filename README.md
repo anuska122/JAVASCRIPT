@@ -232,7 +232,7 @@ Today let's have some sneak peek about the Web Storage API.
 
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/bf9bb36b-176b-45c2-9e82-079d82656bc4)
 
-![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/d0f25429-eea1-4427-8a9d-0947ca17ee07)
+![OutPut](https://github.com/anuska122/JAVASCRIPT/assets/154875734/d0f25429-eea1-4427-8a9d-0947ca17ee07)
 
 
 
