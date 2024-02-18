@@ -224,6 +224,23 @@ Today let's have some sneak peek about the Web Storage API.
 ![Output](https://github.com/anuska122/JAVASCRIPT/assets/154875734/1ab6c63e-0b2c-4580-9ff3-6331f8d7c883)
 
 
+## Day10
+
+**Today I have created a simple project using HTML, CSS And JavaScript.
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/d225457d-d4a8-44d9-97f4-f3e3188c1550)
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/bf9bb36b-176b-45c2-9e82-079d82656bc4)
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/d0f25429-eea1-4427-8a9d-0947ca17ee07)
+
+
+
+
+
+
+
+
 
 
 
