@@ -237,7 +237,7 @@ Today let's have some sneak peek about the Web Storage API.
 
 ## Day11
 
-**Closures in JavaSript**
+**Closures in JavaScript**
 - In JavaScript, closure refers to the combination of a function and the lexical environment within which that function was declared. This allows the function to retain access to variables from its containing scope even after the parent function has finished executing. JavaScript variables can belong to the local or global scope. Global variables can be made local (private) with closures. A closure is a function having access to the parent scope, even after the parent function has closed.
 
 **Global Variable**
