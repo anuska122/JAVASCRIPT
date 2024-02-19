@@ -235,6 +235,26 @@ Today let's have some sneak peek about the Web Storage API.
 ![OutPut](https://github.com/anuska122/JAVASCRIPT/assets/154875734/d0f25429-eea1-4427-8a9d-0947ca17ee07)
 
 
+## Day11
+
+**Closures in JavaSript**
+- In JavaScript, closure refers to the combination of a function and the lexical environment within which that function was declared. This allows the function to retain access to variables from its containing scope even after the parent function has finished executing. JavaScript variables can belong to the local or global scope. Global variables can be made local (private) with closures. A closure is a function having access to the parent scope, even after the parent function has closed.
+
+**Global Variable**
+- A global variable in JavaScript is a variable that is declared outside of any function, meaning it is accessible from anywhere within the 
+ script or program. Global variables are accessible to all functions, objects, and code blocks in a script. Variables created without a declaration keyword (var, let, or const) are always global, even if they are created inside a function.
+
+**Local variable**
+- A local variable in JavaScript is a variable that is declared within a function or block of code. Local variables are only accessible within 
+ the function or block in which they are declared. They have a limited scope and are not accessible from outside the function or block.
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/fec6246f-965a-4b5d-a218-6fb136b2ee67)
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/f6fb98d8-0333-4ec0-9670-b8be6720d1c4)
+
+
+
+
 
 
 
