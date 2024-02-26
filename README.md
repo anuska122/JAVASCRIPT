@@ -252,6 +252,22 @@ Today let's have some sneak peek about the Web Storage API.
 
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/f6fb98d8-0333-4ec0-9670-b8be6720d1c4)
 
+## Day12
+
+**AJAX** 
+- AJAX stands for Asynchronous JavaScript and XML. It's a technique used in web development to send and receive data from a web server asynchronously (in the 
+ background) without interfering with the current page.
+
+- We define a JavaScript function fetchData() which is called when a button is clicked. Inside the function, we create a new XMLHttpRequest object (xhr) which 
+ allows us to make HTTP request and we define an event listener (xhr.onreadystatechange) to handle the response asynchronously. Then we open a new GET request to a 
+ specified URL (https://api.example.com/data in this example) and send the request using xhr.send(). When the state changes (xhr.readyState), we check if the 
+ request is done (xhr.readyState === XMLHttpRequest.DONE) and if the status is successful (xhr.status === 200). If so, we update the HTML content with the response 
+ using document.getElementById('output').innerHTML = xhr.responseText. If there's an error, we display an error message.
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/0f98c6d3-06c7-46f8-b46f-f4183fb3a3a1)
+
+
+
 
 
 
