@@ -266,6 +266,39 @@ Today let's have some sneak peek about the Web Storage API.
 
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/0f98c6d3-06c7-46f8-b46f-f4183fb3a3a1)
 
+## Day13
+
+Today we are going to deep dive into Javascript Function. Here I am going to learn JS Function in more detailed way.
+
+**Function**
+- In JavaScript, a function is a block of code that can be defined once and executed repeatedly. Functions are essential building blocks for organizing and 
+ reusing code in JavaScript applications. JavaScript functions are defined with the function keyword.
+
+**The Function() Constructor**
+
+- JavaScript functions are defined with the function keyword. Functions can also be defined with a built-in JavaScript function constructor called Function().
+
+**Function Hoisting**
+- Hoisting is JavaScript's default behavior of moving declarations to the top of the current scope. Hoisting applies to variable declarations and to function declarations because of this, JavaScript functions can be called before they are declared.
+
+**Functions are Objects**
+- The typeof operator in JavaScript returns "function" for functions. But, JavaScript functions can best be described as objects. JavaScript functions have both properties and methods. The arguments.length property returns the number of arguments received when the function was invoked.
+
+**JavaScript Function Parameters**
+- A JavaScript function does not perform any checking on parameter values (arguments). Function parameters are the names listed in the function definition. Function arguments are the real values passed to (and received by) the function.
+
+- Function Rest Parameter
+The rest parameter (...) allows a function to treat an indefinite number of arguments as an array.
+
+**The Arguments Object**
+- JavaScript functions have a built-in object called the arguments object. The argument object contains an array of the arguments used when the function was called (invoked). This way we can simply use a function to find (for instance) the highest value in a list of numbers.
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/9957e6c2-a6b7-42db-a3db-03f378d951de)
+
+
+
+
+
 
 
 
