@@ -295,6 +295,21 @@ The rest parameter (...) allows a function to treat an indefinite number of argu
 
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/9957e6c2-a6b7-42db-a3db-03f378d951de)
 
+## Day14
+
+**Today I learned about the Function invocation and Function Call.**
+
+**Invoking a JavaScript Function**
+The code inside a function is not executed when the function is defined. The code inside a function is executed when the function is invoked. It is common to use the term "call a function" instead of "invoke a function".
+
+
+**JavaScript Function call()**
+- With the call() method, we can write a method that can be used on different objects. The call() method is a predefined JavaScript method. It can be used to invoke (call) a method with an owner object as an argument (parameter).
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/3c69934d-e2e0-4545-8949-7e659f1c3d9d)
+
+
+
 
 
 
