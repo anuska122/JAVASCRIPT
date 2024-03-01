@@ -309,6 +309,23 @@ The code inside a function is not executed when the function is defined. The cod
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/3c69934d-e2e0-4545-8949-7e659f1c3d9d)
 
 
+## Day15
+
+**JavaScript Function apply()**
+- With the apply() method, we can write a method that can be used on different objects.
+
+- The Difference Between call() and apply() is the call() method takes arguments separately whereas apply() method takes arguments as an array.
+- The apply() method is very handy if we want to use an array instead of an argument list.
+
+**JavaScript Function bind()**
+- With the bind() method, an object can borrow a method from another object. Sometimes the bind() method has to be used to prevent losing this. When a function is used as a callback, this is lost. The bind() method solves this problem.
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/f86c4b0a-4898-4922-a82f-d369ba3ed683)
+
+
+
+
+
 
 
 
