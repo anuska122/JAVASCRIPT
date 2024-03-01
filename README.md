@@ -329,6 +329,9 @@ The code inside a function is not executed when the function is defined. The cod
   -  In an event, this refers to the element that received the event.
   -  Methods like call(), apply(), and bind() can refer this to any object.
 
+**Function Closures**
+- A closure in programming refers to a function that has access to its own scope, as well as the scope in which it was defined. This means that a closure can access variables and parameters from its outer scope even after the outer scope has finished executing. Closures are commonly used in languages that support first-class functions, such as JavaScript.
+
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/f86c4b0a-4898-4922-a82f-d369ba3ed683)
 
 
