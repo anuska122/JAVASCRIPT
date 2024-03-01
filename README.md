@@ -320,6 +320,15 @@ The code inside a function is not executed when the function is defined. The cod
 **JavaScript Function bind()**
 - With the bind() method, an object can borrow a method from another object. Sometimes the bind() method has to be used to prevent losing this. When a function is used as a callback, this is lost. The bind() method solves this problem.
 
+- What is this?
+  - In JavaScript, the this keyword refers to an object.
+  -  In an object method, this refers to the object.
+  -  Alone, this refers to the global object.
+  -  In a function, this refers to the global object.
+  -  In a function, in strict mode, this is undefined.
+  -  In an event, this refers to the element that received the event.
+  -  Methods like call(), apply(), and bind() can refer this to any object.
+
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/f86c4b0a-4898-4922-a82f-d369ba3ed683)
 
 
