@@ -335,6 +335,18 @@ The code inside a function is not executed when the function is defined. The cod
 ![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/f86c4b0a-4898-4922-a82f-d369ba3ed683)
 
 
+## Day16 
+**Using classes**
+- Today I have practiced classes starting with the constructor.
+
+**Starting with the constructor**
+- The constructor method is a special method of a class for creating and initializing an object instance of that class. A constructor enables us to provide any custom initialization that must be done before any other methods can be called on an instantiated object.
+
+![](https://github.com/anuska122/JAVASCRIPT/assets/154875734/50ed10e2-bd6d-4a35-9956-096186a2d358)
+
+
+
+
 
 
 
